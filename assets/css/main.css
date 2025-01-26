@@ -72,6 +72,12 @@ input, select, textarea {
 	appearance: none;
 }
 
+iframe.youtube {
+	width: 100%;
+	height: auto;
+	aspect-ratio: 16 / 9;
+}
+
 /* Basic */
 
 	@-ms-viewport {
