@@ -1,0 +1,11 @@
+html, body,
+input, select, textarea, button {
+  font-family: "Noto Sans JP", system-ui, -apple-system, "Hiragino Sans",
+    "Yu Gothic", "Meiryo", sans-serif !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Noto Sans JP", system-ui, -apple-system, "Hiragino Sans",
+    "Yu Gothic", "Meiryo", sans-serif !important;
+  font-weight: 700;
+}
